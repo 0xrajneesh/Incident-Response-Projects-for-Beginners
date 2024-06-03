@@ -21,7 +21,7 @@ A Distributed Denial of Service (DDoS) attack aims to overwhelm a network, servi
    - Create a virtual network with all VMs connected.
    - Assign static IPs to each VM for easy identification.
 
-   ![Lab Setup Diagram](lab-setup-diagram.png)
+   
 
 ### Tools
 - **Wireshark**: Network protocol analyzer.
