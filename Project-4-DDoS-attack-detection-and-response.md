@@ -1,4 +1,4 @@
-# Project 3: DDoS Attack Detection and Response
+# Project 4: DDoS Attack Detection and Response
 
 ## Introduction
 A Distributed Denial of Service (DDoS) attack aims to overwhelm a network, service, or server with excessive traffic from multiple sources, rendering it unavailable to users. Detecting and responding to DDoS attacks is crucial for maintaining the availability and performance of online services. In this project, you will learn how to detect and respond to DDoS attacks using various tools and techniques.
