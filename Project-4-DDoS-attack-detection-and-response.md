@@ -35,13 +35,12 @@ A Distributed Denial of Service (DDoS) attack aims to overwhelm a network, servi
 
 ### Task 1: Simulate a DDoS Attack
 
-**Step 1**
-1. Install DDoSify on the Attacker Machine.
+**Step 1**: Install DDoSify on the Attacker Machine.
    ```bash
    sudo apt-get update
    sudo apt-get install ddosify
    ```
-2. Launch a DDoS attack against the Victim Machine.
+**Step 2**: Launch a DDoS attack against the Victim Machine.
   ```
   ddosify -t http://<Victim-IP> -n 1000 -c 100
   ```
